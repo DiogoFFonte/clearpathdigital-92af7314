@@ -47,8 +47,8 @@ const Footer = () => {
             <div className="mb-6">
               <img 
                 src={logo} 
-                alt="ClearPath Digital" 
-                className="h-12 w-auto mb-4 brightness-0 invert"
+                alt="ClearPath Digital Logo" 
+                className="h-12 w-auto mb-4 brightness-0 invert filter"
               />
               <p className="text-white/80 leading-relaxed">
                 Especialistas em tráfego pago. Transformamos cliques em clientes 
