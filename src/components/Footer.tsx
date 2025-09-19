@@ -43,7 +43,7 @@ const Footer = () => {
   const socialLinks = [{
     icon: Instagram,
     name: "Instagram",
-    href: "https://instagram.com/clearpathdigital"
+    href: "https://www.instagram.com/clear_pathdigital/"
   }, {
     icon: Linkedin,
     name: "LinkedIn",
