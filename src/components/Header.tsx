@@ -22,7 +22,7 @@ const Header = () => {
             <img 
               src={logo} 
               alt="ClearPath Digital" 
-              className="h-12 w-auto sm:h-16 lg:h-20 bg-transparent"
+              className="h-14 w-auto sm:h-20 lg:h-24 mix-blend-mode-multiply"
             />
           </div>
 
