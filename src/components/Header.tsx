@@ -22,7 +22,7 @@ const Header = () => {
             <img 
               src={logo} 
               alt="ClearPath Digital" 
-              className="h-8 w-auto sm:h-10 lg:h-12"
+              className="h-12 w-auto sm:h-16 lg:h-20 bg-transparent"
             />
           </div>
 
