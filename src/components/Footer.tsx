@@ -56,7 +56,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="lg:col-span-1">
             <div className="mb-6">
-              <img src={logo} alt="ClearPath Digital Logo" className="h-12 w-auto mb-4 brightness-0 invert filter" />
+              <img src={logo} alt="ClearPath Digital Logo" className="h-16 w-auto mb-4 brightness-0 invert filter" />
               <p className="text-white/80 leading-relaxed">
                 Especialistas em tráfego pago. Transformamos cliques em clientes 
                 através de campanhas estratégicas e otimizadas.
