@@ -51,7 +51,7 @@ const Hero = () => {
             </div>
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 bg-secondary rounded-full"></div>
-              <span className="text-sm">Meta Business Partner</span>
+              <span className="text-sm">Consultoria dedicada e transparente</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 bg-secondary rounded-full"></div>
