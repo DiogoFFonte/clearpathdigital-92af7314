@@ -1,9 +1,7 @@
 import { ArrowRight, TrendingUp } from "lucide-react";
 import { Button } from "@/components/ui/button";
-
 const Hero = () => {
-  return (
-    <section id="inicio" className="relative min-h-screen flex items-center justify-center hero-gradient overflow-hidden">
+  return <section id="inicio" className="relative min-h-screen flex items-center justify-center hero-gradient overflow-hidden">
       {/* Background Elements */}
       <div className="absolute inset-0 bg-gradient-to-br from-primary/20 via-transparent to-secondary/20" />
       <div className="absolute top-20 left-10 w-72 h-72 bg-secondary/10 rounded-full blur-3xl" />
@@ -24,12 +22,16 @@ const Hero = () => {
           </h1>
 
           {/* Subheadline */}
-          <p className="text-xl lg:text-2xl mb-10 text-white/90 max-w-3xl mx-auto leading-relaxed fade-in-up" style={{ animationDelay: "0.2s" }}>
+          <p className="text-xl lg:text-2xl mb-10 text-white/90 max-w-3xl mx-auto leading-relaxed fade-in-up" style={{
+          animationDelay: "0.2s"
+        }}>
             Na ClearPath Digital ajudamos o seu negócio a crescer com campanhas de Google Ads e Meta Ads
           </p>
 
           {/* CTA Buttons */}
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center fade-in-up" style={{ animationDelay: "0.4s" }}>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center fade-in-up" style={{
+          animationDelay: "0.4s"
+        }}>
             <Button className="btn-hero text-lg px-8 py-4 group">
               Agende uma Consultoria Gratuita
               <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
@@ -40,7 +42,9 @@ const Hero = () => {
           </div>
 
           {/* Trust Indicators */}
-          <div className="mt-16 flex flex-col sm:flex-row justify-center items-center gap-8 text-white/80 fade-in" style={{ animationDelay: "0.6s" }}>
+          <div className="mt-16 flex flex-col sm:flex-row justify-center items-center gap-8 text-white/80 fade-in" style={{
+          animationDelay: "0.6s"
+        }}>
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 bg-secondary rounded-full"></div>
               <span className="text-sm">Google Ads Certificado</span>
@@ -51,7 +55,7 @@ const Hero = () => {
             </div>
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 bg-secondary rounded-full"></div>
-              <span className="text-sm">+100 Clientes Satisfeitos</span>
+              <span className="text-sm">Foco em performance e crescimento</span>
             </div>
           </div>
         </div>
@@ -63,8 +67,6 @@ const Hero = () => {
           <div className="w-1 h-3 bg-white/50 rounded-full mt-2 animate-pulse"></div>
         </div>
       </div>
-    </section>
-  );
+    </section>;
 };
-
 export default Hero;
