@@ -6,7 +6,7 @@ const About = () => {
     {
       icon: Shield,
       title: "Transparência",
-      description: "Relatórios detalhados e comunicação clara sobre o desempenho das suas campanhas."
+      description: "Acreditamos que a confiança é construída com clareza total no que fazemos."
     },
     {
       icon: Target,
