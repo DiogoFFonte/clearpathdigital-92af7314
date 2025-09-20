@@ -62,7 +62,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Localização",
-      content: "Lisboa, Portugal",
+      content: "Torres Novas, Portugal",
       link: null
     }
   ];
