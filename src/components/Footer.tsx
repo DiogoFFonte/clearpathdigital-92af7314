@@ -118,8 +118,7 @@ const Footer = () => {
             <div className="space-y-2">
               <div className="text-xs text-white/60">Certificações:</div>
               <div className="flex flex-col gap-1">
-                <div className="text-xs text-white/80">✓ Google Ads Certified</div>
-                <div className="text-xs text-white/80">✓ Meta Business Partner</div>
+                <div className="text-xs text-white/80">✓ Gestor de Tráfego Certificado</div>
               </div>
             </div>
           </div>
