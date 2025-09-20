@@ -56,8 +56,8 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Telefone",
-      content: "+351 912 345 678",
-      link: "tel:+351912345678"
+      content: "+351 927 959 290",
+      link: "tel:+351927959290"
     },
     {
       icon: MapPin,
@@ -218,7 +218,7 @@ const Contact = () => {
                     className="border-white text-white hover:bg-white hover:text-primary w-full"
                   >
                     <Phone className="mr-2 w-4 h-4" />
-                    +351 912 345 678
+                    +351 927 959 290
                   </Button>
                 </CardContent>
               </Card>
