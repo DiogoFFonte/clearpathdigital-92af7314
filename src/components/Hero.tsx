@@ -47,7 +47,7 @@ const Hero = () => {
         }}>
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 bg-secondary rounded-full"></div>
-              <span className="text-sm">Google Ads Certificado</span>
+              <span className="text-sm">Gestão profissional de Google Ads &amp; Meta Ads</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 bg-secondary rounded-full"></div>
