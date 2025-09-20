@@ -50,8 +50,8 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      content: "contato@clearpathdigital.pt",
-      link: "mailto:contato@clearpathdigital.pt"
+      content: "geral@clearpathdigital.pt",
+      link: "mailto:geral@clearpathdigital.pt"
     },
     {
       icon: Phone,
