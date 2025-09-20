@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Mail, Phone, MapPin, Instagram, Linkedin, Send } from "lucide-react";
+import { Mail, Phone, MapPin, Instagram, Send } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
@@ -72,11 +72,6 @@ const Contact = () => {
       icon: Instagram,
       name: "Instagram",
       link: "https://instagram.com/clearpathdigital"
-    },
-    {
-      icon: Linkedin,
-      name: "LinkedIn",
-      link: "https://linkedin.com/company/clearpathdigital"
     }
   ];
 
