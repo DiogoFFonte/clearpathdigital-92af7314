@@ -36,8 +36,8 @@ const Hero = () => {
               Agende uma Consultoria Gratuita
               <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </Button>
-            <Button variant="outline" className="btn-outline-hero text-lg">
-              Ver Nossos Resultados
+            <Button variant="outline" className="btn-outline-hero text-lg" asChild>
+              <a href="#contacto">Fale Connosco</a>
             </Button>
           </div>
 

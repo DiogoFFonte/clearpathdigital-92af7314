@@ -68,13 +68,13 @@ const About = () => {
               <div className="text-xs lg:text-sm text-white/80">Relatórios claros e acompanhamento contínuo do desempenho das campanhas</div>
             </div>
             <div>
-              <div className="text-2xl lg:text-3xl font-bold text-secondary mb-2">Sob</div>
-              <div className="text-xs lg:text-sm font-semibold text-white mb-1">Medida</div>
+              <div className="text-2xl lg:text-3xl font-bold text-secondary mb-2">Estratégias</div>
+              <div className="text-xs lg:text-sm font-semibold text-white mb-1">à Medida</div>
               <div className="text-xs lg:text-sm text-white/80">Estratégias personalizadas de acordo com o objetivo e setor de cada cliente</div>
             </div>
             <div>
-              <div className="text-2xl lg:text-3xl font-bold text-secondary mb-2">Resultados</div>
-              <div className="text-xs lg:text-sm font-semibold text-white mb-1">Foco em</div>
+              <div className="text-2xl lg:text-3xl font-bold text-secondary mb-2">Foco</div>
+              <div className="text-xs lg:text-sm font-semibold text-white mb-1">Resultados</div>
               <div className="text-xs lg:text-sm text-white/80">Foco em conversões, ROI positivo e crescimento real do negócio</div>
             </div>
             <div>
