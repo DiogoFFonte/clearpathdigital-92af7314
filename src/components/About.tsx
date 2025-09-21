@@ -10,13 +10,13 @@ const About = () => {
     },
     {
       icon: Target,
-      title: "Resultados",
-      description: "Focamos em métricas que realmente importam: conversões, vendas e ROI positivo."
+      title: "Performance",
+      description: "Trabalhamos com foco em gerar impacto real e resultados consistentes."
     },
     {
-      icon: TrendingUp,
-      title: "Estratégia",
-      description: "Campanhas baseadas em dados, otimização contínua e melhores práticas do mercado."
+      icon: Users,
+      title: "Parceria",
+      description: "Não somos apenas prestadores de serviço: tornamo-nos parte da equipa dos nossos clientes."
     }
   ];
 
@@ -61,28 +61,28 @@ const About = () => {
 
           {/* Stats Section */}
           <div className="bg-primary rounded-2xl p-8 lg:p-12 text-white">
-            <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center">
-              <div>
-                <div className="text-2xl lg:text-3xl font-bold text-secondary mb-2">100%</div>
-                <div className="text-xs lg:text-sm font-semibold text-white mb-1">Transparência</div>
-                <div className="text-xs lg:text-sm text-white/80">Relatórios claros e acompanhamento contínuo do desempenho das campanhas</div>
-              </div>
-              <div>
-                <div className="text-2xl lg:text-3xl font-bold text-secondary mb-2">Sob Medida</div>
-                <div className="text-xs lg:text-sm font-semibold text-white mb-1">Campanhas</div>
-                <div className="text-xs lg:text-sm text-white/80">Estratégias personalizadas de acordo com o objetivo e setor de cada cliente</div>
-              </div>
-              <div>
-                <div className="text-2xl lg:text-3xl font-bold text-secondary mb-2">Resultados</div>
-                <div className="text-xs lg:text-sm font-semibold text-white mb-1">Foco em</div>
-                <div className="text-xs lg:text-sm text-white/80">Orientação para conversões, ROI positivo e crescimento real do negócio</div>
-              </div>
-              <div>
-                <div className="text-2xl lg:text-3xl font-bold text-secondary mb-2">Contínua</div>
-                <div className="text-xs lg:text-sm font-semibold text-white mb-1">Otimização</div>
-                <div className="text-xs lg:text-sm text-white/80">Campanhas ajustadas com base em dados para máxima performance</div>
-              </div>
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center">
+            <div>
+              <div className="text-2xl lg:text-3xl font-bold text-secondary mb-2">100%</div>
+              <div className="text-xs lg:text-sm font-semibold text-white mb-1">Transparência</div>
+              <div className="text-xs lg:text-sm text-white/80">Relatórios claros e acompanhamento contínuo do desempenho das campanhas</div>
             </div>
+            <div>
+              <div className="text-2xl lg:text-3xl font-bold text-secondary mb-2">Sob</div>
+              <div className="text-xs lg:text-sm font-semibold text-white mb-1">Medida</div>
+              <div className="text-xs lg:text-sm text-white/80">Estratégias personalizadas de acordo com o objetivo e setor de cada cliente</div>
+            </div>
+            <div>
+              <div className="text-2xl lg:text-3xl font-bold text-secondary mb-2">Resultados</div>
+              <div className="text-xs lg:text-sm font-semibold text-white mb-1">Foco em</div>
+              <div className="text-xs lg:text-sm text-white/80">Foco em conversões, ROI positivo e crescimento real do negócio</div>
+            </div>
+            <div>
+              <div className="text-2xl lg:text-3xl font-bold text-secondary mb-2">Contínua</div>
+              <div className="text-xs lg:text-sm font-semibold text-white mb-1">Otimização</div>
+              <div className="text-xs lg:text-sm text-white/80">Campanhas ajustadas com base em dados para máxima performance</div>
+            </div>
+          </div>
           </div>
         </div>
       </div>

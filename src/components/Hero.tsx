@@ -45,18 +45,18 @@ const Hero = () => {
           <div className="mt-16 flex flex-col sm:flex-row justify-center items-center gap-8 text-white/80 fade-in" style={{
           animationDelay: "0.6s"
         }}>
-            <div className="flex items-center gap-2">
-              <div className="w-2 h-2 bg-secondary rounded-full"></div>
-              <span className="text-sm">Gestão profissional de Google Ads &amp; Meta Ads</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <div className="w-2 h-2 bg-secondary rounded-full"></div>
-              <span className="text-sm">Consultoria dedicada e transparente</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <div className="w-2 h-2 bg-secondary rounded-full"></div>
-              <span className="text-sm">Foco em performance e crescimento</span>
-            </div>
+          <div className="flex items-center gap-2">
+            <div className="w-2 h-2 bg-secondary rounded-full"></div>
+            <span className="text-sm">Estratégias 100% Personalizadas</span>
+          </div>
+          <div className="flex items-center gap-2">
+            <div className="w-2 h-2 bg-secondary rounded-full"></div>
+            <span className="text-sm">Campanhas Baseadas em Dados</span>
+          </div>
+          <div className="flex items-center gap-2">
+            <div className="w-2 h-2 bg-secondary rounded-full"></div>
+            <span className="text-sm">Foco em Conversões Reais</span>
+          </div>
           </div>
         </div>
       </div>
