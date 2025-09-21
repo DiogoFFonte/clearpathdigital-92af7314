@@ -1,4 +1,4 @@
-import { Instagram, Linkedin, Mail, Phone } from "lucide-react";
+import { Instagram, Mail, Phone } from "lucide-react";
 import logo from "@/assets/logo.png";
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -44,10 +44,6 @@ const Footer = () => {
     icon: Instagram,
     name: "Instagram",
     href: "https://www.instagram.com/clear_pathdigital/"
-  }, {
-    icon: Linkedin,
-    name: "LinkedIn",
-    href: "https://linkedin.com/company/clearpathdigital"
   }];
   return <footer className="bg-primary text-white">
       {/* Main Footer Content */}
