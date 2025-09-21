@@ -71,7 +71,7 @@ const Contact = () => {
     {
       icon: Instagram,
       name: "Instagram",
-      link: "https://instagram.com/clearpathdigital"
+      link: "https://www.instagram.com/clear_pathdigital/"
     }
   ];
 
