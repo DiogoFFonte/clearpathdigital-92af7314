@@ -128,7 +128,7 @@ All colors MUST be HSL.
   }
 
   .btn-outline-hero {
-    @apply bg-white/10 backdrop-blur-sm border-2 border-white text-white font-semibold px-8 py-4 rounded-xl hover:bg-white hover:text-primary transition-all duration-300 shadow-lg;
+    @apply bg-white/25 backdrop-blur-sm border-2 border-white text-white font-semibold px-8 py-4 rounded-xl hover:bg-white hover:text-primary transition-all duration-300 shadow-lg;
   }
 
   /* Animations */

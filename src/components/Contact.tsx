@@ -210,7 +210,7 @@ const Contact = () => {
                   </p>
                   <Button 
                     variant="outline" 
-                    className="bg-white/10 backdrop-blur-sm border-white text-white hover:bg-white hover:text-primary w-full"
+                    className="bg-white/25 backdrop-blur-sm border-white text-white hover:bg-white hover:text-primary w-full"
                   >
                     <Phone className="mr-2 w-4 h-4" />
                     +351 927 959 290
